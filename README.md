@@ -10,5 +10,5 @@
 4. Позиционирование блоков и элементов.
 5. Figma.
 
-[Ссылка на проект:](https://github.com/EkaterinaRomachenko/russian-travel.git)
+[Ссылка на проект:](https://EkaterinaRomachenko.github.io/russian-travel/index.html)
 
