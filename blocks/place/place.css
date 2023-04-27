@@ -13,7 +13,6 @@
 
 @media screen and (max-width: 768px) {
   .place {
-    gap: 32px;
     margin: 73px 0 0;
   }
 }

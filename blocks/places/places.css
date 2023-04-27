@@ -2,9 +2,10 @@
 .places {
   max-width: 984px;
   width: 100%;
-  box-sizing: border-box;
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  align-items: baseline;
   padding: 0;
   margin: 92px auto 0;
 }
